@@ -10,7 +10,7 @@ You can define your graph model in YAML or in a slightly modified Cypher pattern
 
 ## This is in development
 
-The library is in its early stage and is targetted to be used in developement environment.
+The library is in its early stage and is targetted to be used in development environment.
 
 This library is the heart of the popular [Graphgen web application](http://graphgen.neoxygen.io)
 
